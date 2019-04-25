@@ -1,0 +1,6 @@
+[pg]
+database = "somedatabase"
+num_connections = 15
+server = "someserver"
+ssl = boolean
+username = "someuser"
