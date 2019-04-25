@@ -60,7 +60,7 @@ func main() {
 	}
 
 	// Create the SQLite database
-	dbFile := "country_stats.sqlite"
+	dbFile := "db4s_country_stats.sqlite"
 	sdb, err = sqlite.Open(dbFile)
 	if err != nil {
 		log.Fatal(err)

@@ -1,4 +1,4 @@
 .idea
 config.toml
-country_stats.sqlite
+db4s_country_stats.sqlite
 db4s_country_stats_generator
